@@ -8,4 +8,4 @@ completes.
 
 This device provides not only a method for sequencing, but processes to actively re-sequence and shuffle notes whilst playing, creating variation through remarkably simple movements. Creating longer evolving sequences of midi notes.
 
-Link to video example / demo: https://youtu.be/DBB8HrwDmmM
+Link to device workflow / example: https://youtu.be/DBB8HrwDmmM
